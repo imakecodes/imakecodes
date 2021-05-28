@@ -10,7 +10,6 @@ My name is Michel Wilhelm. I work as a Software Engineer at Loadsmart.
 ### Languages & Tools 🛠  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;![Go](https://img.shields.io/badge/-Go-05122A?style=flat&color=green)&nbsp;  
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&color=orange)&nbsp;![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&color=orange)&nbsp;![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&color=orange)&nbsp;![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&color=orange)&nbsp;  
-![](https://img.shields.io/badge/--05122A?style=flat&color=gray)&nbsp;  
 
 
 ### Analytics ⚙️
