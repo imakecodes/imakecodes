@@ -3,7 +3,7 @@
 ========================================================================================================
 
 
-My name is Michel Wilhelm. I work as a Software Engineer at Loadsmart.
+My name is Michel Wilhelm. I work as a Software Engineer at Electric AI.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=imakecodes&repo=imakecodes&countColorcountColor)
 
