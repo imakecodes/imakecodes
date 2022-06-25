@@ -1,9 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-========================================================================================================
 
-
-My name is Michel Wilhelm. I work as a Software Engineer at Electric AI.
+My name is Michel Wilhelm. I am a Fullstack Software Engineer.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=imakecodes&repo=imakecodes&countColorcountColor)
 
