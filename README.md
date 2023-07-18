@@ -14,8 +14,6 @@ My name is Michel Wilhelm. I am a Fullstack Software Engineer.
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imakecodes&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=imakecodes&count_private=true&show_icons=true)
-
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=imakecodes&hide_border=true)
 
 ### Let's connect? 🤝
@@ -27,7 +25,5 @@ My name is Michel Wilhelm. I am a Fullstack Software Engineer.
 <a href="https://twitter.com/makecodes"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 
 <a href="https://instagram.com/imakecodes"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-
-<a href="https://www.facebook.com/i.make.codes/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 
 </p>
